@@ -16,11 +16,11 @@ Enter one of the above :
   Enter one of above : 2
     You have entered the following information
       book name = Percy Jackson and The Olympians  
-             - The Lightning Thief
-             - The Sea of Monsters
-             - The Titans Curse
-             - The Battle of the Labyrinth
-             - The Last Olympian
+             1.- The Lightning Thief
+             2.- The Sea of Monsters
+             3.- The Titans Curse
+             4.- The Battle of the Labyrinth
+             5.- The Last Olympian
    Enter one of the above : 3
     Enter author name : Michelle Paver
             Series - Chronicles of Ancient Darkness
